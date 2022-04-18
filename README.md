@@ -1,5 +1,5 @@
 # ModelBasedRLTensorDecomp
-Code for "Model based Multi-agent Reinforcement Learning with Tensor Decompositions" https://arxiv.org/abs/2110.14524#
+Code for my position paper "Model based Multi-agent Reinforcement Learning with Tensor Decompositions" https://arxiv.org/abs/2110.14524#
 
 experiment.py contains the main logic to execute an experiment
 
